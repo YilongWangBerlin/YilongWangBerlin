@@ -40,7 +40,7 @@
 
 
 
-<div align="center">
+<div >
   <!-- 头像在右边 -->
   <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" width="20%" align="right" style="border-radius: 50%;" />
   <!-- 左对齐文字 -->
