@@ -42,8 +42,8 @@
 
 <div >
   <!-- 头像在右边 -->
-  <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png"
-     width="170" align="left" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png"
+     style="width: 25%; min-width: 150px; padding: 10px; margin-right: 20px; border-radius: 50%;" align="left" />
   <!-- 左对齐文字 -->
   <div style="text-align: left; min-width: 300px; max-width: 600px;">
   <pre style="text-align: left; display: inline-block;">
