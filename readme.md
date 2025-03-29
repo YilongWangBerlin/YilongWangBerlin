@@ -45,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png"
      width="170" align="left" style="border-radius: 50%;" />
   <!-- 左对齐文字 -->
-  <div style="text-align: left; display: inline-block; min-width: 300px; max-width: 600px;">
+  <div style="text-align: left; min-width: 300px; max-width: 600px;">
   <pre style="text-align: left; display: inline-block;">
 🎓 B.Sc. in Industrial Engineering and Management
 📍 TU Berlin | 2022 – 2025 (expected)
