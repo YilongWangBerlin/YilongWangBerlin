@@ -60,11 +60,11 @@ Always open to collaborating on cutting-edge ML projects!
 </table>
 
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" width="160" style="border-radius: 50%;" />
-</p>
-
-<pre>
+<div align="center">
+  <!-- 头像在右边 -->
+  <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" width="20%" align="right" style="border-radius: 50%;" />
+  <!-- 你的介绍文字 -->
+  <pre>
 🎓 B.Sc. in Industrial Engineering and Management
 📍 TU Berlin | 2022 – 2025 (expected)
 🧭 Covered close to 200 ECTS during the first five semesters
@@ -75,7 +75,9 @@ Always open to collaborating on cutting-edge ML projects!
 💼 Open to Research Opportunities
 Looking for research roles/internships in academia & industry (AI, ML, NLP)
 Always open to collaborating on cutting-edge ML projects!
-</pre>
+  </pre>
+</div>
+
 
 
 
