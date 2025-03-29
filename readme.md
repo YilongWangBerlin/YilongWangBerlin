@@ -42,7 +42,7 @@
 
 <div align="center">
   <!-- 头像在右边 -->
-  <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" width="25%" align="right" style="border-radius: 50%;" />
+  <div><img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" width="25%" align="right" style="border-radius: 50%;" /></div>
   <!-- 你的介绍文字 -->
     <pre style="text-align: left; display: inline-block;">
 🎓 B.Sc. in Industrial Engineering and Management
