@@ -32,20 +32,40 @@
 
 ---
 
+
+
+
 ### 🚀 About Me
 
-🎓 **B.Sc. in Industrial Engineering and Management**  
-📍 **TU Berlin** | 2022 – 2025 (expected)  
-📌 **Research Interests**:
-- Deep Learning (DL), Machine Learning (ML)  
-- Natural Language Processing (NLP), Large Language Models (LLMs)  
-- Generative Models, Multimodal Learning, Embodied AI 
+<table>
+  <tr>
+    <td>
 
+<strong>🎓 B.Sc. in Industrial Engineering and Management</strong><br>
+📍 TU Berlin | 2022 – 2025 (expected)<br>
+🧭 Covered close to 200 ECTS during the first five semesters.<br><br>
 
-💼 **Open to Research Opportunities**  
-Actively seeking research roles and internships in both **academia** and **industry**, focusing on AI, ML, or NLP. Always open to collaborating on cutting-edge ML projects!
+<strong>📌 Research Interests:</strong><br>
+• Deep Learning (DL), Machine Learning (ML)<br>
+• Natural Language Processing (NLP), Large Language Models (LLMs)<br>
+• Generative Models, Multimodal Learning, Embodied AI<br><br>
+    </td>
+    <td align="center" width="180">
+      <img src="me4.png" alt="My Photo" width="160"  style="border-radius: 40%;"><br>
+    </td>
+    
+  </tr>
+</table>
 
-
+<table>
+  <tr>
+      <td>
+<strong>💼 Open to Research Opportunities</strong><br>
+Actively seeking research roles and internships in both <strong>academia</strong> and <strong>industry</strong>, focusing on AI, ML, or NLP.<br>
+Always open to collaborating on cutting-edge ML projects!
+    </td>
+  </tr>
+</table>
 
 ---
 
