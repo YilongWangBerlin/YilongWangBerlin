@@ -53,7 +53,7 @@ Always open to collaborating on cutting-edge ML projects!
     </td>
     <td style="text-align: center; vertical-align: top; padding-left: 20px;">
       <div style="display: flex; justify-content: center;">
-        <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" alt="My Photo" width="120" style="border-radius: 40%;" />
+       <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" alt="My Photo" style="max-width: 120px; width: 100%; height: auto; border-radius: 40%;" />
       </div>
     </td>
   </tr>
