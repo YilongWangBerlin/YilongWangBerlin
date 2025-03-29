@@ -37,34 +37,14 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-<strong>🎓 B.Sc. in Industrial Engineering and Management</strong><br>
-📍 TU Berlin | 2022 – 2025 (expected)<br>
-🧭 Covered close to 200 ECTS during the first five semesters.<br><br>
-<strong>📌 Research Interests:</strong><br>
-• Deep Learning (DL), Machine Learning (ML)<br>
-• Natural Language Processing (NLP), Large Language Models (LLMs)<br>
-• Generative Models, Multimodal Learning, Embodied AI<br><br>
-<strong>💼 Open to Research Opportunities</strong><br>
-Actively seeking research roles and internships in both <strong>academia</strong> and <strong>industry</strong>, focusing on AI, ML, or NLP.<br>
-Always open to collaborating on cutting-edge ML projects!
-    </td>
-    <td style="text-align: center; vertical-align: top; padding-left: 20px;">
-      <div style="display: flex; justify-content: center;">
-       <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" alt="My Photo" style="max-width: 120px; width: 70%; height: auto; border-radius: 40%;" />
-      </div>
-    </td>
-  </tr>
-</table>
+
 
 
 <div align="center">
   <!-- 头像在右边 -->
-  <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" width="20%" align="right" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" width="40%" align="right" style="border-radius: 50%;" />
   <!-- 你的介绍文字 -->
-  <pre>
+    <pre style="text-align: left; display: inline-block;">
 🎓 B.Sc. in Industrial Engineering and Management
 📍 TU Berlin | 2022 – 2025 (expected)
 🧭 Covered close to 200 ECTS during the first five semesters
