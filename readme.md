@@ -44,7 +44,7 @@
 <div>
   <!-- 头像在左边 -->
    <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png"
-     style="width: 25%; min-width: 150px; padding: 10px; margin-right: 20px; border-radius: 50%;" align="left" />
+     style="width: 30%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
   <!-- 设置最小宽度的文字区域 -->
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
   🎓 <strong>B.Sc. in Industrial Engineering and Management</strong><br>
