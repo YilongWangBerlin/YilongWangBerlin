@@ -45,7 +45,8 @@
   <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png"
      width="170" align="left" style="border-radius: 50%;" />
   <!-- 左对齐文字 -->
-  <pre align="right"  style="text-align: left; display: inline-block;">
+  <div style="text-align: left; display: inline-block; min-width: 300px; max-width: 600px;">
+  <pre style="text-align: left; display: inline-block;">
 🎓 B.Sc. in Industrial Engineering and Management
 📍 TU Berlin | 2022 – 2025 (expected)
 🧭 Covered close to 200 ECTS during the first five semesters
@@ -53,7 +54,7 @@
 • Deep Learning (DL), Machine Learning (ML)
 • Natural Language Processing (NLP), Large Language Models (LLMs)
 • Generative Models, Multimodal Learning, Embodied AI
-  </pre>
+  </pre></div>
     <pre style="text-align: left; display: inline-block;">
   💼 Open to Research Opportunities
   Looking for research roles/internships in academia & industry (AI, ML, NLP)
