@@ -51,9 +51,11 @@
 Actively seeking research roles and internships in both <strong>academia</strong> and <strong>industry</strong>, focusing on AI, ML, or NLP.<br>
 Always open to collaborating on cutting-edge ML projects!
     </td>
-    <div style="display: flex; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" alt="My Photo" width="160" style="border-radius: 40%;" />
-  </div>
+    <td style="text-align: center; vertical-align: top; padding-left: 20px;">
+      <div style="display: flex; justify-content: center;">
+        <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" alt="My Photo" width="120" style="border-radius: 40%;" />
+      </div>
+    </td>
   </tr>
 </table>
 
