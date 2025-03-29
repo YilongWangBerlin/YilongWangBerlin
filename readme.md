@@ -62,7 +62,15 @@ Always open to collaborating on cutting-edge ML projects!
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px; min-width: 250px;">
+    <!-- 手机端：先显示头像 -->
+    <td style="text-align: center;" colspan="2">
+      <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" alt="My Photo"
+        style="width: 160px; max-width: 60%; border-radius: 50%; margin: 10px auto; display: block;" />
+    </td>
+  </tr>
+  <tr>
+    <!-- 桌面端：左边文本 -->
+    <td style="vertical-align: top;">
       <strong>🎓 B.Sc. in Industrial Engineering and Management</strong><br>
       📍 TU Berlin | 2022 – 2025 (expected)<br>
       🧭 Covered close to 200 ECTS during the first five semesters.<br><br>
@@ -74,11 +82,14 @@ Always open to collaborating on cutting-edge ML projects!
       Actively seeking research roles and internships in both <strong>academia</strong> and <strong>industry</strong>, focusing on AI, ML, or NLP.<br>
       Always open to collaborating on cutting-edge ML projects!
     </td>
-    <td style="text-align: center; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" alt="My Photo" style="width: 160px; max-width: 100%; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+    <!-- 桌面端：右边头像（隐藏，仅用于桌面布局） -->
+    <td style="text-align: center; vertical-align: top; padding-left: 20px;">
+      <img src="https://raw.githubusercontent.com/YilongWangBerlin/YilongWangBerlin/main/me4.png" alt="My Photo"
+        style="width: 160px; max-width: 100%; border-radius: 50%; display: none;" />
     </td>
   </tr>
 </table>
+
 
 
 
