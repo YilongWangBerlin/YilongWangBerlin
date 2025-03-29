@@ -66,12 +66,10 @@ Always open to collaborating on cutting-edge ML projects!
       <strong>🎓 B.Sc. in Industrial Engineering and Management</strong><br>
       📍 TU Berlin | 2022 – 2025 (expected)<br>
       🧭 Covered close to 200 ECTS during the first five semesters.<br><br>
-
       <strong>📌 Research Interests:</strong><br>
       • Deep Learning (DL), Machine Learning (ML)<br>
       • Natural Language Processing (NLP), Large Language Models (LLMs)<br>
       • Generative Models, Multimodal Learning, Embodied AI<br><br>
-
       <strong>💼 Open to Research Opportunities</strong><br>
       Actively seeking research roles and internships in both <strong>academia</strong> and <strong>industry</strong>, focusing on AI, ML, or NLP.<br>
       Always open to collaborating on cutting-edge ML projects!
