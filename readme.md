@@ -44,16 +44,10 @@
 <div>
   <!-- 设置最小宽度的文字区域 -->
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
+  🎓 <strong>M.Sc. in Computer Science</strong><br>
+  📍 TU Berlin | 2025 → now<br><br>
   🎓 <strong>B.Sc. in Industrial Engineering and Management</strong><br>
-  📍 TU Berlin | 2022 – 2025 (expected)<br>
-  🧭 Covered close to 200 ECTS during the first five semesters<br><br>
-  <strong>📌 Research Interests:</strong><br>
-  • Deep Learning (DL), Machine Learning (ML)<br>
-  • Natural Language Processing (NLP), Large Language Models (LLMs)<br>
-  • Generative Models, Multimodal Learning, Embodied AI<br><br>
-  <strong>💼 Open to Research Opportunities</strong><br>
-  Looking for research roles/internships in academia & industry (AI, ML, NLP)<br>
-  Always open to collaborating on cutting-edge ML projects!
+  📍 TU Berlin | 2022 → 2025
 </div>
 
 </div>
