@@ -1,7 +1,7 @@
 <h1 align="center">Yilong Wang</h1>
 
 <p align="center">
-  M.Sc. student at TU Berlin. Multilingual NLP, LLM agents, post-training, looped transformers.
+  M.Sc. student at TU Berlin. Multilingual NLP, LLM agents, post-training, looped transformers, interpretability, counterfactual explanations.
 </p>
 
 <p align="center">
