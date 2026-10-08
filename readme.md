@@ -91,6 +91,20 @@
   *Rechnernetze und Verteilte Systeme, TU Berlin – WS23/24*
 
 
+
+---
+
+### 🤖 Coding Agent Usage
+
+<!-- agentdeck:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/agentdeck/card-dark.svg" />
+  <img alt="Coding agent usage" src="assets/agentdeck/card-light.svg" />
+</picture>
+<!-- agentdeck:end -->
+
+<sub>Claude Code and Codex, counted from local logs by <a href="https://github.com/YilongWangBerlin/AgentDeck">AgentDeck</a>. Updated daily.</sub>
+
 ---
 
 <h4 align="center">📫 Feel free to connect!</h4>
