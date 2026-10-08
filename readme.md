@@ -65,44 +65,44 @@
 
 ---
 
+### 📄 Publications
+
+- **[Macro: Enhancing Multilingual Counterfactual Explanations through Alignment-as-Preference Optimization](https://arxiv.org/abs/2605.11632)**  
+  **Yilong Wang**\*, Qianli Wang\*, Bohao Chu, Yihong Liu, Jing Yang, Simon Ostermann  
+  *EMNLP 2026 Findings* · [arXiv](https://arxiv.org/abs/2605.11632) · [Code](https://github.com/YilongWangBerlin/MACRO)
+
+- **[iFlip: Iterative Feedback-driven Counterfactual Example Refinement](https://arxiv.org/abs/2601.01446)**  
+  **Yilong Wang**\*, Qianli Wang\*, Nils Feldhus  
+  *EMNLP 2026 Findings* · [arXiv](https://arxiv.org/abs/2601.01446) · [Code](https://github.com/YilongWangBerlin/iFlip)
+
+\* Equal contribution
+
+---
+
 ### 🧠 Coursework & Projects
 
 #### 📝 Personal Repositories
 
-- 📚 **[TUB CS & Economics Notes](https://github.com/YilongWangBerlin/TUB-CS-Economics-Notes)**  
-  Notes from courses in mathematics, economics, and computer science at TU Berlin.
+- 📚 **[TUB CS & Economics Notes](https://github.com/YilongWangBerlin/TUB-CS-Economics-Notes)**
 
-- 📘 **[Survive TUB Manual for Informatics](https://github.com/YilongWangBerlin/SurviveTUBManual4Info)**  
-  A long-term guide to help new students (Erstis) navigate course selection and student life at TU Berlin.
+- 📘 **[Survive TUB Manual for Informatics](https://github.com/YilongWangBerlin/SurviveTUBManual4Info)**
 
 
 #### 🔬 Deep Learning & ML Projects
 
 - **[Fundamentals of Machine Learning with NumPy](https://github.com/YilongWangBerlin/TU-Berlin-ML1)**  
-  *ML1, TU Berlin – WS24/25*  
-  Implemented a wide range of machine learning methods in `NumPy`, including decision trees, SVMs, PCA, ensemble learning, and kernel methods.  
-  Course covered both probabilistic and discriminative models (e.g., Bayes, Fisher, Product of Experts), with emphasis on model selection and explainability.  
-  Combined theoretical understanding with hands-on coding exercises.
+  *ML1, TU Berlin – WS24/25*
 
 - **[Deep Learning Models and Explainability with PyTorch](https://github.com/YilongWangBerlin/TU-Berlin-DL1)**  
-  *DL1, TU Berlin – WS24/25*  
-  Built and trained deep learning models using `PyTorch`, including CNNs and RNNs.  
-  Applied optimization techniques (Adam, SGD), regularization (dropout, weight decay), and explored explainable AI (XAI) concepts.  
-  Integrated both theoretical tasks and hands-on projects.
+  *DL1, TU Berlin – WS24/25*
 
 #### 🖥️ Systems Programming & Networking
 
 - **[Virtual File System in C](https://github.com/YilongWangBerlin/MiniFS)**  
-  *Systemprogrammierung, TU Berlin – SS23*  
-  Developed a user-space file system in C with support for INodes, superblocks, and block-based storage.  
-  Implemented commands such as `mkdir`, `mkfile`, `list`, `writef`, `readf`, `rm`, `import`, and `export`.  
-  Focused on shell-based interaction, file structure, and memory safety.
+  *Systemprogrammierung, TU Berlin – SS23*
 
 - **[Distributed Hash Table with Chord over UDP/HTTP](https://github.com/YilongWangBerlin/ChordDHT-C)**  
-  *Rechnernetze und Verteilte Systeme, TU Berlin – WS23/24*  
-  Implemented a static and dynamic DHT in C using the Chord protocol.  
-  Enabled node join, lookup, and stabilization over UDP.  
-  Served resources via HTTP and used OpenSSL for hashing.
+  *Rechnernetze und Verteilte Systeme, TU Berlin – WS23/24*
 
 
 
@@ -138,15 +138,6 @@
 
 
 
-
-
----
-
-### 🎯 Fun Fact
-
-> Still debugging life.exe...  
-> No girlfriend found in current scope.  
-> At least my waifu is open-source 💻💕
 
 
 ---
