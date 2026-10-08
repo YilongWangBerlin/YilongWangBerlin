@@ -72,6 +72,10 @@
 
 #### 🔬 Deep Learning & ML Projects
 
+- **[Rethinking Feature Quality: Frozen ViT versus HOG under Linear SVM and k-NN Evaluation on STL-10](https://github.com/YilongWangBerlin/hog-vs-vit-stl10)**  
+  **Yilong Wang**, Lingxuan Zhu, Mingxin Jiang, Junyi Li  
+  *AIA, TU Berlin* · [PDF](https://github.com/YilongWangBerlin/hog-vs-vit-stl10/blob/main/AIA_Group_18_Rethinking_Feature_Quality__Frozen_VIT_versus_HOG_under_Linear_SVM_and_k_NN_Evaluation_on_STL_10_AIA_Project.pdf) · [Code](https://github.com/YilongWangBerlin/hog-vs-vit-stl10)
+
 - **[Fundamentals of Machine Learning with NumPy](https://github.com/YilongWangBerlin/TU-Berlin-ML1)**  
   *ML1, TU Berlin – WS24/25*
 
