@@ -47,7 +47,8 @@
   🎓 <strong>M.Sc. in Computer Science</strong><br>
   📍 TU Berlin | 2025 → now<br><br>
   🎓 <strong>B.Sc. in Industrial Engineering and Management</strong><br>
-  📍 TU Berlin | 2022 → 2025
+  📍 TU Berlin | 2022 → 2025<br>
+  🧭 Covered close to 200 ECTS during the first five semesters
 </div>
 
 </div>
